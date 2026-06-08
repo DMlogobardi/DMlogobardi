@@ -15,7 +15,8 @@ Computer Science student at the University of Salerno.
 - FastAPI
 - JPA
 - MySQL
+- Git
 
 ## Featured Projects
-- PSP – IoT access control system
-- Quizy – Quiz management platform
+- PSP – IoT access control system using FastAPI, MySQL and Raspberry Pi
+- Quizy – Quiz management platform with JWT authentication and JPA persistence
