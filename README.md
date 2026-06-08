@@ -1,16 +1,21 @@
-## Hi there 👋
+# Hi, I'm Davide 👋
 
-<!--
-**DMlogobardi/DMlogobardi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Computer Science student at the University of Salerno.
 
-Here are some ideas to get you started:
+## Interests
+- Software Development
+- Backend Engineering
+- CAD Modeling
+- 3D Printing
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Technologies
+- Java
+- Python
+- SQL
+- FastAPI
+- JPA
+- MySQL
+
+## Featured Projects
+- PSP – IoT access control system
+- Quizy – Quiz management platform
