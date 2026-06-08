@@ -9,7 +9,7 @@ Computer Science student at the University of Salerno.
 - 3D Printing
 
 ### Technologies
-Java • Python • C# • C • C++ • SQL • FastAPI • JPA • MySQL • Git
+Java • Python • C# • C • C++ • JavaScript • SQL • FastAPI • JPA • MySQL • Git
 
 ### Featured Projects
 - PSP – IoT access control system using FastAPI, MySQL and Raspberry Pi
